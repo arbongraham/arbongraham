@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 Currently working on getting this intro updated and made. May be some random changes and updates as I mess around with this.
+
 <!--
 **arbongraham/arbongraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
